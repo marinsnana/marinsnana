@@ -12,3 +12,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marinsnana&repo=insta-page)](https://github.com/marinsnana/insta-page)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marinsnana&repo=jogo-dino)](https://github.com/marinsnana/jogo-dino)
+
