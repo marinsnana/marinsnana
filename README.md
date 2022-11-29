@@ -2,7 +2,8 @@
 
 #### Aqui é onde eu tenho meus projetos, concluídos e ainda em progresso. Sou programadora front-end junior e buscando uma oportunidade de mostrar meus talentos. 
 
-#### Você pode entrar em contato comigo através do meu <link https://www.linkedin.com/in/gianna-marins-734944234/>LinkedIn</link>
+#### Você pode entrar em contato comigo aqui:
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/gianna-marins-734944234/) &nbsp;
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
